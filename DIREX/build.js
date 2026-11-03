@@ -25,7 +25,7 @@ s.addText('Assessoria de Governança, Riscos e Compliance – ASSGER',{x:0.7,y:3
 
 // 2 pauta
 s=base('Pauta','Sete assuntos, três deles com decisão ou providência solicitada');
-const pauta=[['1','Programa de Governança e Saneamento Normativo','Aprovação'],['2','Contratação das licenças Claude (SEI-100006/001060/2026)','Atenção ao processo'],['3','Inventário Normativo','Informe'],['4','Avaliação do site institucional','Providências das áreas'],['5','Due Diligence (SEI-100006/000861/2026)','Pesquisa de mercado em 2026'],['6','Revisão do Regimento Interno','Pendências DIREO e CONADM'],['7','Política de indicação de titulares de funções','Revisão SUPGEP']];
+const pauta=[['1','Programa de Governança e Saneamento Normativo','Aprovação'],['2','Contratação das licenças Claude (SEI-100006/001060/2026)','Atenção ao processo'],['3','Inventário Normativo','Informe'],['4','Avaliação do site institucional (SEI-100006/001361/2026)','Providências das áreas'],['5','Due Diligence (SEI-100006/000861/2026)','Pesquisa de mercado em 2026'],['6','Revisão do Regimento Interno','Pendências DIREO e CONADM'],['7','Política de indicação de titulares de funções','Revisão SUPGEP']];
 pauta.forEach((r,i)=>{const y=1.45+i*0.48;
  s.addShape(p.ShapeType.ellipse,{x:0.5,y:y,w:0.38,h:0.38,fill:{color:T},line:{color:T}});
  s.addText(r[0],{x:0.5,y,w:0.38,h:0.38,align:'center',valign:'middle',fontFace:BF,fontSize:14,bold:true,color:W,margin:0,isTextBox:true});
@@ -59,7 +59,7 @@ bullets(s,['Base para achar normas desatualizadas, em conflito ou em desacordo c
 ask(s,'tomar ciência. Sem pedido de decisão.');
 
 // 6 site
-s=base('4. Avaliação do site institucional','59 itens avaliados · informações até 30/09/2026');
+s=base('4. Avaliação do site institucional','SEI-100006/001361/2026 · 59 itens avaliados · informações até 30/09/2026');
 s.addChart(p.charts.DOUGHNUT,[{name:'Status',labels:['Atendido','Parcial','Pendente','Não atendido','Não localizado'],values:[21,10,9,15,4]}],{x:0.4,y:1.35,w:3.6,h:3.1,chartColors:[T,'8FC1C2',A,R,'8A969B'],showLegend:true,legendPos:'b',legendFontSize:11,legendColor:D,showPercent:false,showValue:true,dataLabelColor:W,dataLabelFontSize:12,holeSize:55});
 s.addChart(p.charts.BAR,[{name:'Itens com providência',labels:['PRESI','DIRAF','CONADM','DIREO','CONFIS','DIRPLA'],values:[24,17,6,2,1,1]}],ch({x:4.1,y:1.35,w:5.4,h:3.1,barDir:'bar',chartColors:[T],showTitle:true,title:'Itens com providência, por órgão',titleFontSize:13,titleColor:D,catAxisOrientation:'maxMin'}));
 ask(s,'determinar que as áreas atualizem as informações do site. 64% dos itens exigem providência.');
