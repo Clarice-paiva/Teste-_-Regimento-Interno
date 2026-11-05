@@ -43,9 +43,9 @@ c) a Ouvidoria seja instada a registrar nos autos se houve complementação por 
 
 **III – Da proposta de inclusão da ASSGER como "ponto focal fiscalizador"**
 
-10. A ASSGER não se opõe a atuar como **interlocutora e ponto de contato no processo**, coordenando o acompanhamento das providências e a consolidação das informações para o retorno à Ouvidoria. Esclarece-se, entretanto, que a função de Ponto Focal Setorial do SEI-RJ é de **administrador do sistema**, formalmente designada por ofício do titular do órgão (Decreto Estadual nº 48.209/2022, arts. 6º e 7º). Atribuir à ASSGER credencial administrativa para fiscalizar o próprio perfil que controla os acessos contrariaria a segregação de funções.
+10. A ASSGER não se opõe a atuar como **interlocutora e ponto de contato no processo**, coordenando o acompanhamento das providências e a consolidação das informações para o retorno à Ouvidoria. Caso Vossa Senhoria assim decida, a ASSGER também se coloca à disposição para ser designada **um dos Pontos Focais Setoriais do SEI-RJ**, função de administrador do sistema, nos termos do art. 6º do Decreto Estadual nº 48.209/2022, mediante ofício e Termo de Conduta e Confidencialidade.
 
-11. Assim, a atuação da ASSGER se dará **sem perfil de administrador** do SEI-RJ, limitada à verificação, ao acompanhamento e à comunicação, e não substitui a competência apuratória das instâncias referidas no item I.
+11. **Ressalva.** A ASSGER registra que está ciente de que a acumulação da função de administrador do SEI-RJ com a verificação de conformidade e de segregação de funções concentra, na mesma unidade, papéis que, em condições ideais, seriam exercidos por unidades distintas (Estatuto Social, art. 72, IV). Compreende, contudo, as limitações de pessoal da Companhia e a necessidade de manter ágil a operação do sistema, razão pela qual **aceitará a designação, se Vossa Senhoria assim concordar**, atuando nos mesmos termos dos demais Pontos Focais, observados os procedimentos do SEI-RJ (inclusive o Termo de Cancelamento de documentos) e com seus atos sujeitos à trilha de auditoria do sistema e à eventual auditoria pela Auditoria Interna ou pela Controladoria Geral do Estado (Decreto Estadual nº 48.209/2022, arts. 52 a 56). Como cautela adicional, a ASSGER não alterará os perfis dos seus próprios usuários, que ficarão a cargo dos demais Pontos Focais.
 
 **IV – Pedido de decisão**
 
@@ -55,7 +55,7 @@ a) a realização do juízo de admissibilidade e o encaminhamento da apuração 
 
 b) a avaliação do ofício de solicitação de auditoria dos registros do SEI-RJ, nos termos do item 7, "a";
 
-c) a autorização para que a ASSGER requeira à SUPTIN e à SUPADM as informações do item 9 e realize a verificação de conformidade dos perfis;
+c) a autorização para que a ASSGER requeira à SUPTIN e à SUPADM as informações do item 9 e realize a verificação de conformidade dos perfis, e a decisão quanto à designação da ASSGER como um dos Pontos Focais Setoriais do SEI-RJ, com a ressalva do item 11;
 
 d) a ciência à Ouvidoria, para que informe ao denunciante, pelo canal OuvERJ, o encaminhamento dado e registre eventual complementação da denúncia; e
 
